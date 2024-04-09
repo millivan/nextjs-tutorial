@@ -1,8 +1,9 @@
-import './globals.css'
+import "./globals.css";
 
+// this is the head section in a html file structure
 export const metadata = {
-  title: 'NextJS Course App',
-  description: 'Your first NextJS app!',
+  title: "NextJS Course App",
+  description: "Your first NextJS app!",
 };
 
 export default function RootLayout({ children }) {
